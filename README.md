@@ -23,6 +23,7 @@ Welcome to learning resource catalog.  As I learn myself I have put together a b
 ### Advanced
 + [Complete Intro to React](https://frontendmasters.com/courses/complete-react-v4/)
 + [Intermediate React](https://frontendmasters.com/courses/intermediate-react/)
++ [Advanced React Patterns](https://www.udemy.com/share/10007kAEEZeFhRTHQ=/)
 + [Functional-Light JavaScript](https://frontendmasters.com/courses/functional-javascript-v2/)
 + [AWS for Front-End Engineers](https://frontendmasters.com/courses/aws-frontend-react/)
 
