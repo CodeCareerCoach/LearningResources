@@ -2,7 +2,7 @@
 
 Hi, I'm Mike from [CodeCareerCoach.com](http://www.codecareercoach.com) :wave::smile:
 
-Welcome to learning resource catalog.  As I learn myself I have put together a brief collection of timeless resources that I feel are still relivant. If I find new ones I add them here and when I feel material has gone stale I will prune them from this list. I have taken each of these courses to completion so I stand by them.
+Welcome to learning resource catalog.  As I learn myself I have started a collection of resources that I feel are still relivant.  If I find new ones I add them here and when I feel material has gone stale I will prune them from this list. I have taken most of these courses to completion so I stand by them. I have also welcomed others to add to this list. 
 
 ## Frontend Web Development
 
