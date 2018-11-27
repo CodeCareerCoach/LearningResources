@@ -2,13 +2,15 @@
 
 Hi, I'm Mike from [CodeCareerCoach.com](http://www.codecareercoach.com) :wave::smile:
 
-Welcome to learning resource catalog.  As I learn myself I have put together a brief collection of timeless resources that I feel are still relivant. If I find new ones I add them here and when I feel material has gone stale I will prune them from this list. I have taken each of these courses to completion so I stand by them. 
+Welcome to learning resource catalog.  As I learn myself I have put together a brief collection of timeless resources that I feel are still relivant. If I find new ones I add them here and when I feel material has gone stale I will prune them from this list. I have taken each of these courses to completion so I stand by them.
 
 ## Frontend Web Development
 
 ### Beginner
 
++ [Eloquent Javascript](https://eloquentjavascript.net/index.html)
 + [FreeCodeCamp.org](http://www.freecodecamp.org)
++ [Code Academy's Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 + [Introduction to JavaScript Programming](https://frontendmasters.com/courses/javascript-basics/)
 + [Organizing JavaScript Functionality](https://frontendmasters.com/courses/organizing-javascript/)
 + [Coercion in JavaScript](https://frontendmasters.com/courses/javascript-coercion/)
@@ -16,11 +18,13 @@ Welcome to learning resource catalog.  As I learn myself I have put together a b
 ### Intermediate
 
 + [JavaScript: Understanding the Weird Parts](https://www.udemy.com/share/1000n6/)
++ [Learning Test Drivent Development by Example](https://www.sitepoint.com/learning-javascript-test-driven-development-by-example/)
 + [Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/)
 + [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/)
 + [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/)
 
 ### Advanced
+
 + [Complete Intro to React](https://frontendmasters.com/courses/complete-react-v4/)
 + [Intermediate React](https://frontendmasters.com/courses/intermediate-react/)
 + [Advanced React Patterns](https://www.udemy.com/share/10007kAEEZeFhRTHQ=/)
@@ -34,5 +38,5 @@ Welcome to learning resource catalog.  As I learn myself I have put together a b
 ## Platform Development
 + [Complete Java Masterclass](https://www.udemy.com/share/10007kAEEZeFhRTHQ=/)
 
-More coming soon! 
+More coming soon!
 Feel free to make a PR to reccomend courses!
