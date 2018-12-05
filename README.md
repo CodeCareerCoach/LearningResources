@@ -8,6 +8,7 @@ Welcome to learning resource catalog.  As I learn myself I have started a collec
 
 ### Beginner
 
++ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/share/1000n6/)
 + [Eloquent Javascript](https://eloquentjavascript.net/index.html)
 + [FreeCodeCamp.org](http://www.freecodecamp.org)
 + [Code Academy's Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
@@ -17,7 +18,6 @@ Welcome to learning resource catalog.  As I learn myself I have started a collec
 
 ### Intermediate
 
-+ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/share/1000n6/)
 + [Learning Test Drivent Development by Example](https://www.sitepoint.com/learning-javascript-test-driven-development-by-example/)
 + [Rethinking Asynchronous JavaScript](https://frontendmasters.com/courses/rethinking-async-js/)
 + [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/)
